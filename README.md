@@ -1,6 +1,6 @@
 # OpenCV-Mesh-Deformation
 OpenCVを用いてメッシュ変形を行うサンプルです。
-<img src="https://user-images.githubusercontent.com/37477845/200170883-b6575825-53b4-40e9-be93-6f7fa04cdf77.gif" width="75%">
+<img src="https://user-images.githubusercontent.com/37477845/200170883-b6575825-53b4-40e9-be93-6f7fa04cdf77.gif" width="90%">
 
 # Requirement
 * OpenCV 4.5.3.56 or later
